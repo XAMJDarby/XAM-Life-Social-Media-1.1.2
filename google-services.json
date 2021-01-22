@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084065258797",
+    "project_id": "xam-life-social-media",
+    "storage_bucket": "xam-life-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084065258797:android:fb5c6251aa5d96359bc7a4",
+        "android_client_info": {
+          "package_name": "com.xamlife.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084065258797-vheus9mpe10knbn1kapquf66psaou836.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xamlife.tech",
+            "certificate_hash": "54aa88ff0942ffbc3f0b95a8c8ff5f8a8ad94923"
+          }
+        },
+        {
+          "client_id": "1084065258797-cng3k7ge935k0ce4mbj7la9bct1iri4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1nA5Xt6qZWeM06uQ2yj68sXFNVXRSDjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084065258797-cng3k7ge935k0ce4mbj7la9bct1iri4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
