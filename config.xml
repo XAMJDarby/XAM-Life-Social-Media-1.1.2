@@ -24,7 +24,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
 </config-file>
 
 <platform name="android">
-    <resource-file src="google-services.json" target="app/google-services.json" />
+    <resource-file src="google-services.json" target="google-services.json" />
     <preference name="AutoHideSplashScreen" value="false" />
     <preference name="FadeSplashScreen" value="true"/>
     <preference name="ShowSplashScreenSpinner" value="true"/>
@@ -61,7 +61,6 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
     <splash src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
     <splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
 
-<plugin name="com.google.gms.google-services" source="npm"/>
 <plugin name="cordova-plugin-firebase-messaging" source="npm"/>
 <plugin name="cordova-plugin-fcm" source="npm"/>
 <plugin name="cordova-plugin-fcm-with-dependecy-updated" source="npm"/>
