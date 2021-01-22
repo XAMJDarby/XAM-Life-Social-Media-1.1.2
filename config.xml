@@ -24,11 +24,11 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
 </config-file>
 
 <platform name="android">
-    
-    <preference name="AutoHideSplashScreen" value="true" />
+    <resource-file src="google-services.json" target="app/google-services.json" />
+    <preference name="AutoHideSplashScreen" value="false" />
     <preference name="FadeSplashScreen" value="true"/>
     <preference name="ShowSplashScreenSpinner" value="true"/>
-    <preference name="SplashMaintainAspectRatio" value="false" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
 </platform>
 
