@@ -19,7 +19,7 @@ const messaging = firebase.messaging();
  // Initialize the Firebase app in the service worker by passing in the
  // messagingSenderId.
  firebase.initializeApp({
-   'messagingSenderId': 'YOUR-SENDER-ID'
+   'messagingSenderId': '	AAAA_GdTHS0:APA91bEX8QzsmqIM3MJjCCIO1cz9vDXIqGqgBC90TmtQcgvBv3gdmIUTsW1L8iaZfmukoqkXEU-whbu7jwFbErFD3Auw0EHon6W_TBLdGmwlbyN9aBv9orw1SaVk8ecqegI46YbN3P9y'
  });
  // Retrieve an instance of Firebase Messaging so that it can handle background
  // messages.
