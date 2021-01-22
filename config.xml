@@ -19,7 +19,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
     <allow-navigation href="*" />
     
 <config-file platform="android" parent="/manifest" mode="merge">
-    android:debuggable="false"
+    android:debuggable="true"
 <preference name="debuggable" value="true" />
 </config-file>
 
