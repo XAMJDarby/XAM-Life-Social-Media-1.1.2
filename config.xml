@@ -24,7 +24,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
 </config-file>
 
 <platform name="android">
-    <resource-file src="google-services.json" target="google-services.json" />
+    <resource-file src="google-services.json" target="app/google-services.json" />
     <preference name="AutoHideSplashScreen" value="false" />
     <preference name="FadeSplashScreen" value="true"/>
     <preference name="ShowSplashScreenSpinner" value="true"/>
