@@ -32,6 +32,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
     <preference name="SplashShowOnlyFirstTime" value="false" />
 </platform>
 
+    <preference name='pgb-builder-version' value='2' />
 <preference name="android-targetSdkVersion" value="28" />  
 <preference name="android-minSdkVersion" value="19" />
 <preference name="phonegap-version" value="cli-9.0.0" />  
