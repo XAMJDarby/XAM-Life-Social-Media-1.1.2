@@ -62,7 +62,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
     <splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
 
 <plugin name="cordova-plugin-firebase-messaging" source="npm"/>
-<plugin name="cordova-plugin-fcm-with-dependecy-updated" source="npm"/>
+<plugin name="cordova-plugin-fcm" source="npm"/>
 <plugin name="cordova-plugin-androidx" source="npm"/>
 <plugin name="cordova-plugin-androidx-adapter" source="npm"/>
 <plugin name="cordova-plugin-android-fingerprint-auth" source="npm"/>
