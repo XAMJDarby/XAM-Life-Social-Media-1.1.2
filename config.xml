@@ -48,7 +48,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
 <preference name="DisallowOverscroll" value="true"/>
 <preference name="DisallowScroll" value="true"/>
 <preference name="DisallowOverscroll" value="true" />
-<preference name="UIWebViewBounce" value="false" />
+<preference name="UIWebViewBounce" value="true" />
 <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 
     <splash src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
@@ -61,7 +61,8 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
     <splash src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
     <splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
 
-
+<plugin name="cordova-plugin-my-firebase-messaging" source="npm"/>
+<plugin name="cordova-plugin-firebase-messaging" source="npm"/>
 <plugin name="cordova-plugin-fcm-with-dependecy-updated-headup" source="npm"/>
 <plugin name="cordova-plugin-fcm-with-dependecy-updated" source="npm"/>
 <plugin name="cordova-plugin-androidx" source="npm"/>
