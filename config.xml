@@ -35,7 +35,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
 <preference name="android-targetSdkVersion" value="29" />  
 <preference name="android-minSdkVersion" value="19" />
 <preference name="phonegap-version" value="cli-9.0.0" /> 
-<preference name='pgb-builder-version' value='2' />
+
 <preference name="android-build-tool" value="gradle" />  
 <preference name="backgroundcolor" value="#222222" />
 <preference name="stay-in-webview" value="false" />
@@ -48,7 +48,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
 <preference name="DisallowOverscroll" value="true"/>
 <preference name="DisallowScroll" value="true"/>
 <preference name="DisallowOverscroll" value="true" />
-<preference name="UIWebViewBounce" value="true" />
+<preference name="UIWebViewBounce" value="false" />
 <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 
     <splash src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
@@ -61,7 +61,6 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
     <splash src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
     <splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
 
-<plugin name="cordova-plugin-my-firebase-messaging" source="npm"/>
 <plugin name="cordova-plugin-firebase-messaging" source="npm"/>
 <plugin name="cordova-plugin-fcm-with-dependecy-updated-headup" source="npm"/>
 <plugin name="cordova-plugin-fcm-with-dependecy-updated" source="npm"/>
