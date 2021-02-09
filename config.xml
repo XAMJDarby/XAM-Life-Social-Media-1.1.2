@@ -68,6 +68,7 @@ Create, Post Short Video, Listen, Upload music. Chat and meet people worldwide.
 <plugin name="cordova-plugin-android-fingerprint-auth" source="npm"/>
 <plugin name="cordova-plugin-geolocation" source="npm"/>
 <plugin name="cordova-plugin-splashscreen" source="npm"/>
+    <plugin name="cordova-plugin-simple-file-chooser" source="npm"/>
     <plugin name="cordova-filechooser" source="npm"/>
     <plugin name="cordova-plugin-camera-preview" source="npm"/>
 <plugin name="cordova-plugin-camera" source="npm"/>
